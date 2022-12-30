@@ -6,7 +6,7 @@ This is a web based application developed for health related based website in in
 
 
 *Project Link* -https://vikasreddy22.github.io/project7/
-*project demo video link* - 
+*project demo video link* -https://youtu.be/DynRuSHOmCw 
 
 ## Azure technologies used for Project
 
