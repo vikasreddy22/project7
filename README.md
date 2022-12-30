@@ -23,6 +23,7 @@ This is a web based application developed for health related based website in in
 - Included the feedback Survey form to increase the scope of improvement 
 
 ## Screenshots
+### Home -
 ![Doctor Plus a Medical Category Flat bootstrap Responsive website Template _ Home __ Vikasreddy1 - Google Chrome 31-12-2022 01_14_22](https://user-images.githubusercontent.com/119279262/210107033-66c0d46e-7546-4611-a666-99ef5428a5b1.png)
 
 ### About Us -
