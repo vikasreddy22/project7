@@ -35,7 +35,7 @@ This is a web based application developed for health related based website in in
 
 
 ### News -
-![Doctor Plus a Medical Category Flat bootstrap Responsive website Template _ Home __ Vikasreddy1 - Google Chrome 31-12-2022 01_15_02](https://user-images.githubusercontent.com/119279262/210107109-6947c161-103f-4757-aab0-482206e4e078.png)
+![Doctor Plus a Medical Category Flat bootstrap Responsive website Template _ Home __ Vikasreddy1 - Google Chrome 31-12-2022 01_15_20](https://user-images.githubusercontent.com/119279262/210107608-8a304072-85a0-423e-ba10-934a67a52c47.png)
 
 
 ### Contact us -
