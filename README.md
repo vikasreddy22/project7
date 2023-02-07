@@ -24,26 +24,32 @@ This is a web based application developed for health related based website in in
 
 ## Screenshots
 ### Home -
-![Doctor Plus a Medical Category Flat bootstrap Responsive website Template _ Home __ Vikasreddy1 - Google Chrome 31-12-2022 01_14_22](https://user-images.githubusercontent.com/119279262/210107033-66c0d46e-7546-4611-a666-99ef5428a5b1.png)
+![Screenshot (4)](https://user-images.githubusercontent.com/119279262/217211712-03cc7724-a152-44b3-8cd9-c443234aaa80.png)
+
 
 ### About Us -
-![Doctor Plus a Medical Category Flat bootstrap Responsive website Template _ Home __ Vikasreddy1 - Google Chrome 31-12-2022 01_14_44](https://user-images.githubusercontent.com/119279262/210107049-ab5d8241-e3b1-43d3-8a5f-09d14cb0be90.png)
+
+![Screenshot (5)](https://user-images.githubusercontent.com/119279262/217211739-fb694901-66e8-4387-8336-55d0baf6305a.png)
 
 
 ### Services -
-![Doctor Plus a Medical Category Flat bootstrap Responsive website Template _ Home __ Vikasreddy1 - Google Chrome 31-12-2022 01_15_02](https://user-images.githubusercontent.com/119279262/210107067-b3068444-007d-49ad-9608-54278f2bc67b.png)
+
+![Screenshot (7)](https://user-images.githubusercontent.com/119279262/217211911-98adc9c4-7878-4f7a-be43-63091ff09d97.png)
 
 
 ### News -
-![Doctor Plus a Medical Category Flat bootstrap Responsive website Template _ Home __ Vikasreddy1 - Google Chrome 31-12-2022 01_15_20](https://user-images.githubusercontent.com/119279262/210107608-8a304072-85a0-423e-ba10-934a67a52c47.png)
+![Screenshot (8)](https://user-images.githubusercontent.com/119279262/217211971-cc5b142b-8d55-448d-aca4-764932df723d.png)
+
 
 
 ### Contact us -
-![Doctor Plus a Medical Category Flat bootstrap Responsive website Template _ Home __ Vikasreddy1 - Google Chrome 31-12-2022 01_15_41](https://user-images.githubusercontent.com/119279262/210107131-3a8f19e4-eb9c-4248-938f-c6364088dc4a.png)
+
+![Screenshot (9)](https://user-images.githubusercontent.com/119279262/217212003-b9b5f6ca-b237-4c1d-b91a-c004574d59a5.png)
 
 
 ### health bot
-![Doctor Plus a Medical Category Flat bootstrap Responsive website Template _ Home __ Vikasreddy1 - Google Chrome 31-12-2022 01_15_52](https://user-images.githubusercontent.com/119279262/210107144-ae39bfd8-faf6-4191-8991-6d088c057c06.png)
+![Screenshot (6)](https://user-images.githubusercontent.com/119279262/217211848-087d099a-a9a9-4c07-97ac-4e481a2bc96a.png)
+
 
 
 ## Tech Stack 💻
